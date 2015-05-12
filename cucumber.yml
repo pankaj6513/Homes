@@ -1,0 +1,4 @@
+default: --no-source --color --format pretty
+
+firefox: BROWSER_TYPE=firefox PLATFORM=beta
+chrome: BROWSER_TYPE=chrome PLATFORM=beta
